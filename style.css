@@ -1,5 +1,19 @@
-div{
-    background: black;
-    width: 100vw;
-    height: 100vh;
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-transform: capitalize;
+    text-align: right;
+    /* text-decoration:none ; */
+}
+
+p
+{
+    line-height: 10px;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
