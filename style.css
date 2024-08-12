@@ -2,29 +2,15 @@
     margin: 0;
 }
 
-
 div{
-    /* border-width: 5px;
-    border-style: solid;
-    border-color: seagreen; */
+    height: 90vh;
+    background-color: brown;
+    /* background-image: url(https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGphcGFufGVufDB8fDB8fHww); */
+    /* background-repeat:no-repeat; */
+    /* background-size:cover; */
+    /* background-position: center; */
+    /* background-attachment: fixed; */
+
+    background: url("https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGphcGFufGVufDB8fDB8fHww") no-repeat center/cover fixed;
     
-    /* border-left: 2px solid red;
-    border-right: 2px solid green;
-    border-bottom: 2px solid black;
-    border-top: 2px solid pink; */
-
-    border: 5px solid seagreen;
-    margin: 50px 0px;
-   
-
-
-    /* padding: 40px; */
-    /* padding-top: 20px;
-    padding-right: 100px;
-    padding-left: 10px;
-    padding-bottom: 20px;
-
-    text-align: right; */
-    
-
 }
