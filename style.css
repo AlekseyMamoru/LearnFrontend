@@ -1,15 +1,7 @@
-*{
-    margin: 0;
-}
-
-div{
-    background-image: radial-gradient(rgba(0, 0, 255, 0.365), rgba(0, 0, 0), green), url(https://images.unsplash.com/photo-1723242017539-39cd15eb75fd?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzM3x8fGVufDB8fHx8fA%3D%3D);
+.one{
+    color:red;
+    }
     
-    background-repeat:no-repeat ;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 100vh;
-
-
-}
+    .two{
+    font-size:5rem;
+    }
