@@ -19,10 +19,23 @@
     } */
 
 
-    div p{
+    /* div p{
         color: blue;
     }
 
     div h2{
         color: red;
+    } */
+
+
+    /* div + p {
+        color: brown;
+    } */
+
+    a[href="one"]{
+        color: darkgoldenrod;
+    }
+
+    img[alt="nature"]{
+        color: aqua;
     }
