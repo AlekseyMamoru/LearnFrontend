@@ -1,41 +1,15 @@
-    /* *{
-        border: 2px solid red;
-    }
-    
-    .one{
-    color:red;
-    }
-    
-    .two{
-    font-size:5rem;
-    }
+.link:link{
+    color: red;
+}
 
-    #one{
-        color: blueviolet;
-    } */
+.visited:visited{
+    color: darkcyan;
+}
 
-    /* div.text{
-        color: brown;
-    } */
+.hover:hover{
+    color: blueviolet;
+}
 
-
-    /* div p{
-        color: blue;
-    }
-
-    div h2{
-        color: red;
-    } */
-
-
-    /* div + p {
-        color: brown;
-    } */
-
-    a[href="one"]{
-        color: darkgoldenrod;
-    }
-
-    img[alt="nature"]{
-        color: aqua;
-    }
+.active:active{
+    color: chocolate;
+}
