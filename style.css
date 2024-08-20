@@ -1,15 +1,17 @@
-.link:link{
-    color: red;
+
+
+div{
+        background-color: green;
+        width: 200px;
+        height: 200px;
+
+        display: inline;
 }
 
-.visited:visited{
-    color: darkcyan;
-}
+span{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
 
-.hover:hover{
-    color: blueviolet;
-}
-
-.active:active{
-    color: chocolate;
+    display: none;
 }
