@@ -1,17 +1,14 @@
 
+.fa-solid{
+    color: brown;
+}
 
-div{
+
+
+/* div{
         background-color: green;
         width: 200px;
         height: 200px;
+        display: none;
+} */
 
-        display: inline;
-}
-
-span{
-    background-color: brown;
-    width: 50px;
-    height: 50px;
-
-    display: none;
-}
