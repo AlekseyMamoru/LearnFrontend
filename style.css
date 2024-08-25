@@ -1,5 +1,5 @@
 body{
-    background: color black;
+    background-color: black;
 }
 
 div{
@@ -7,10 +7,5 @@ div{
         width: 200px;
         height: 200px;
         background: rgb(105, 105, 205);
-        box-shadow: 4px 4px 1px 10px red;
-                    /* x, y, blurness, size, color */
-}
-
-h1{
-    text-shadow: -15px 15px 0 0 #ED6742;
+      
 }
